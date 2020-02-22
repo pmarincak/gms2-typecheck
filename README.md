@@ -5,8 +5,8 @@ A series of scripts for GML to add futher is_a typechecking.
 
 1. [Install](#install)
 2. [API](#api)
- - [is_double](#is_double)
- - [is_null](#is_null)
+   - [is_double](#is_double)
+   - [is_null](#is_null)
 
 ## Install
 
